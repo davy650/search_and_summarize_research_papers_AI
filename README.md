@@ -1,4 +1,4 @@
-# Research Paper Summarizer & Citation Finder
+# Research Paper Summarizer & Citation Finder Using AI
 
 A learning exercise built with the **OpenAI Agents SDK** that demonstrates how to orchestrate multiple AI agents to:
 1. Search for research papers on a given topic.
